@@ -1,0 +1,152 @@
+[
+  {
+    "level": "SEVERE",
+    "message": "https://www.googletagmanager.com/ - [Report Only] Refused to frame 'https://td.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'self' geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com secure.authorize.net test.authorize.net www.paypal.com www.sandbox.paypal.com pilot-payflowlink.paypal.com player.vimeo.com assets.braintreegateway.com *.amazon.com *.amazon.co.uk *.amazon.co.jp *.amazon.jp *.amazon.it *.amazon.fr *.amazon.es *.amazon.de *.payments-amazon.com *.payments-amazon.co.uk *.payments-amazon.co.jp *.payments-amazon.jp *.payments-amazon.it *.payments-amazon.fr *.payments-amazon.es *.payments-amazon.de cdn.dnky.co webchat.dotdigital.com *.yotpo.com\".\n",
+    "source": "security",
+    "timestamp": 1745008180242
+  },
+  {
+    "level": "SEVERE",
+    "message": "https://www.googletagmanager.com/ - [Report Only] Refused to frame 'https://td.doubleclick.net/' because it violates the following Content Security Policy directive: \"frame-src 'self' geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com secure.authorize.net test.authorize.net www.paypal.com www.sandbox.paypal.com pilot-payflowlink.paypal.com player.vimeo.com assets.braintreegateway.com *.amazon.com *.amazon.co.uk *.amazon.co.jp *.amazon.jp *.amazon.it *.amazon.fr *.amazon.es *.amazon.de *.payments-amazon.com *.payments-amazon.co.uk *.payments-amazon.co.jp *.payments-amazon.jp *.payments-amazon.it *.payments-amazon.fr *.payments-amazon.es *.payments-amazon.de cdn.dnky.co webchat.dotdigital.com *.yotpo.com\".\n",
+    "source": "security",
+    "timestamp": 1745008180636
+  },
+  {
+    "level": "SEVERE",
+    "message": "https://fstatic.netpub.media/ - [Report Only] Refused to frame 'https://ads.pubmatic.com/' because it violates the following Content Security Policy directive: \"frame-src 'self' geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com secure.authorize.net test.authorize.net www.paypal.com www.sandbox.paypal.com pilot-payflowlink.paypal.com player.vimeo.com assets.braintreegateway.com *.amazon.com *.amazon.co.uk *.amazon.co.jp *.amazon.jp *.amazon.it *.amazon.fr *.amazon.es *.amazon.de *.payments-amazon.com *.payments-amazon.co.uk *.payments-amazon.co.jp *.payments-amazon.jp *.payments-amazon.it *.payments-amazon.fr *.payments-amazon.es *.payments-amazon.de cdn.dnky.co webchat.dotdigital.com *.yotpo.com\".\n",
+    "source": "security",
+    "timestamp": 1745008182793
+  },
+  {
+    "level": "SEVERE",
+    "message": "https://fstatic.netpub.media/ - [Report Only] Refused to frame 'https://prebid.a-mo.net/' because it violates the following Content Security Policy directive: \"frame-src 'self' geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com secure.authorize.net test.authorize.net www.paypal.com www.sandbox.paypal.com pilot-payflowlink.paypal.com player.vimeo.com assets.braintreegateway.com *.amazon.com *.amazon.co.uk *.amazon.co.jp *.amazon.jp *.amazon.it *.amazon.fr *.amazon.es *.amazon.de *.payments-amazon.com *.payments-amazon.co.uk *.payments-amazon.co.jp *.payments-amazon.jp *.payments-amazon.it *.payments-amazon.fr *.payments-amazon.es *.payments-amazon.de cdn.dnky.co webchat.dotdigital.com *.yotpo.com\".\n",
+    "source": "security",
+    "timestamp": 1745008182793
+  },
+  {
+    "level": "SEVERE",
+    "message": "https://fstatic.netpub.media/ - [Report Only] Refused to frame 'https://onetag-sys.com/' because it violates the following Content Security Policy directive: \"frame-src 'self' geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com secure.authorize.net test.authorize.net www.paypal.com www.sandbox.paypal.com pilot-payflowlink.paypal.com player.vimeo.com assets.braintreegateway.com *.amazon.com *.amazon.co.uk *.amazon.co.jp *.amazon.jp *.amazon.it *.amazon.fr *.amazon.es *.amazon.de *.payments-amazon.com *.payments-amazon.co.uk *.payments-amazon.co.jp *.payments-amazon.jp *.payments-amazon.it *.payments-amazon.fr *.payments-amazon.es *.payments-amazon.de cdn.dnky.co webchat.dotdigital.com *.yotpo.com\".\n",
+    "source": "security",
+    "timestamp": 1745008182822
+  },
+  {
+    "level": "SEVERE",
+    "message": "https://fstatic.netpub.media/ - [Report Only] Refused to frame 'https://static.cdn.admatic.com.tr/' because it violates the following Content Security Policy directive: \"frame-src 'self' geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com secure.authorize.net test.authorize.net www.paypal.com www.sandbox.paypal.com pilot-payflowlink.paypal.com player.vimeo.com assets.braintreegateway.com *.amazon.com *.amazon.co.uk *.amazon.co.jp *.amazon.jp *.amazon.it *.amazon.fr *.amazon.es *.amazon.de *.payments-amazon.com *.payments-amazon.co.uk *.payments-amazon.co.jp *.payments-amazon.jp *.payments-amazon.it *.payments-amazon.fr *.payments-amazon.es *.payments-amazon.de cdn.dnky.co webchat.dotdigital.com *.yotpo.com\".\n",
+    "source": "security",
+    "timestamp": 1745008182822
+  },
+  {
+    "level": "SEVERE",
+    "message": "https://fstatic.netpub.media/ - [Report Only] Refused to frame 'https://ads.pubmatic.com/' because it violates the following Content Security Policy directive: \"frame-src 'self' geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com secure.authorize.net test.authorize.net www.paypal.com www.sandbox.paypal.com pilot-payflowlink.paypal.com player.vimeo.com assets.braintreegateway.com *.amazon.com *.amazon.co.uk *.amazon.co.jp *.amazon.jp *.amazon.it *.amazon.fr *.amazon.es *.amazon.de *.payments-amazon.com *.payments-amazon.co.uk *.payments-amazon.co.jp *.payments-amazon.jp *.payments-amazon.it *.payments-amazon.fr *.payments-amazon.es *.payments-amazon.de cdn.dnky.co webchat.dotdigital.com *.yotpo.com\".\n",
+    "source": "security",
+    "timestamp": 1745008182822
+  },
+  {
+    "level": "SEVERE",
+    "message": "https://fstatic.netpub.media/ - [Report Only] Refused to frame 'https://cm.adform.net/' because it violates the following Content Security Policy directive: \"frame-src 'self' geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com secure.authorize.net test.authorize.net www.paypal.com www.sandbox.paypal.com pilot-payflowlink.paypal.com player.vimeo.com assets.braintreegateway.com *.amazon.com *.amazon.co.uk *.amazon.co.jp *.amazon.jp *.amazon.it *.amazon.fr *.amazon.es *.amazon.de *.payments-amazon.com *.payments-amazon.co.uk *.payments-amazon.co.jp *.payments-amazon.jp *.payments-amazon.it *.payments-amazon.fr *.payments-amazon.es *.payments-amazon.de cdn.dnky.co webchat.dotdigital.com *.yotpo.com\".\n",
+    "source": "security",
+    "timestamp": 1745008182823
+  },
+  {
+    "level": "SEVERE",
+    "message": "https://fstatic.netpub.media/ - [Report Only] Refused to frame 'https://visitor.omnitagjs.com/' because it violates the following Content Security Policy directive: \"frame-src 'self' geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com secure.authorize.net test.authorize.net www.paypal.com www.sandbox.paypal.com pilot-payflowlink.paypal.com player.vimeo.com assets.braintreegateway.com *.amazon.com *.amazon.co.uk *.amazon.co.jp *.amazon.jp *.amazon.it *.amazon.fr *.amazon.es *.amazon.de *.payments-amazon.com *.payments-amazon.co.uk *.payments-amazon.co.jp *.payments-amazon.jp *.payments-amazon.it *.payments-amazon.fr *.payments-amazon.es *.payments-amazon.de cdn.dnky.co webchat.dotdigital.com *.yotpo.com\".\n",
+    "source": "security",
+    "timestamp": 1745008182823
+  },
+  {
+    "level": "SEVERE",
+    "message": "https://fstatic.netpub.media/ - [Report Only] Refused to frame 'https://sync.richaudience.com/' because it violates the following Content Security Policy directive: \"frame-src 'self' geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com secure.authorize.net test.authorize.net www.paypal.com www.sandbox.paypal.com pilot-payflowlink.paypal.com player.vimeo.com assets.braintreegateway.com *.amazon.com *.amazon.co.uk *.amazon.co.jp *.amazon.jp *.amazon.it *.amazon.fr *.amazon.es *.amazon.de *.payments-amazon.com *.payments-amazon.co.uk *.payments-amazon.co.jp *.payments-amazon.jp *.payments-amazon.it *.payments-amazon.fr *.payments-amazon.es *.payments-amazon.de cdn.dnky.co webchat.dotdigital.com *.yotpo.com\".\n",
+    "source": "security",
+    "timestamp": 1745008182823
+  },
+  {
+    "level": "SEVERE",
+    "message": "https://fstatic.netpub.media/ - [Report Only] Refused to frame 'https://ssc-cms.33across.com/' because it violates the following Content Security Policy directive: \"frame-src 'self' geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com secure.authorize.net test.authorize.net www.paypal.com www.sandbox.paypal.com pilot-payflowlink.paypal.com player.vimeo.com assets.braintreegateway.com *.amazon.com *.amazon.co.uk *.amazon.co.jp *.amazon.jp *.amazon.it *.amazon.fr *.amazon.es *.amazon.de *.payments-amazon.com *.payments-amazon.co.uk *.payments-amazon.co.jp *.payments-amazon.jp *.payments-amazon.it *.payments-amazon.fr *.payments-amazon.es *.payments-amazon.de cdn.dnky.co webchat.dotdigital.com *.yotpo.com\".\n",
+    "source": "security",
+    "timestamp": 1745008182823
+  },
+  {
+    "level": "SEVERE",
+    "message": "https://fstatic.netpub.media/ - [Report Only] Refused to frame 'https://hbx.media.net/' because it violates the following Content Security Policy directive: \"frame-src 'self' geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com secure.authorize.net test.authorize.net www.paypal.com www.sandbox.paypal.com pilot-payflowlink.paypal.com player.vimeo.com assets.braintreegateway.com *.amazon.com *.amazon.co.uk *.amazon.co.jp *.amazon.jp *.amazon.it *.amazon.fr *.amazon.es *.amazon.de *.payments-amazon.com *.payments-amazon.co.uk *.payments-amazon.co.jp *.payments-amazon.jp *.payments-amazon.it *.payments-amazon.fr *.payments-amazon.es *.payments-amazon.de cdn.dnky.co webchat.dotdigital.com *.yotpo.com\".\n",
+    "source": "security",
+    "timestamp": 1745008182823
+  },
+  {
+    "level": "SEVERE",
+    "message": "https://fstatic.netpub.media/ - [Report Only] Refused to frame 'https://prebid.a-mo.net/' because it violates the following Content Security Policy directive: \"frame-src 'self' geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com secure.authorize.net test.authorize.net www.paypal.com www.sandbox.paypal.com pilot-payflowlink.paypal.com player.vimeo.com assets.braintreegateway.com *.amazon.com *.amazon.co.uk *.amazon.co.jp *.amazon.jp *.amazon.it *.amazon.fr *.amazon.es *.amazon.de *.payments-amazon.com *.payments-amazon.co.uk *.payments-amazon.co.jp *.payments-amazon.jp *.payments-amazon.it *.payments-amazon.fr *.payments-amazon.es *.payments-amazon.de cdn.dnky.co webchat.dotdigital.com *.yotpo.com\".\n",
+    "source": "security",
+    "timestamp": 1745008182823
+  },
+  {
+    "level": "SEVERE",
+    "message": "https://fstatic.netpub.media/ - [Report Only] Refused to frame 'https://onetag-sys.com/' because it violates the following Content Security Policy directive: \"frame-src 'self' geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com secure.authorize.net test.authorize.net www.paypal.com www.sandbox.paypal.com pilot-payflowlink.paypal.com player.vimeo.com assets.braintreegateway.com *.amazon.com *.amazon.co.uk *.amazon.co.jp *.amazon.jp *.amazon.it *.amazon.fr *.amazon.es *.amazon.de *.payments-amazon.com *.payments-amazon.co.uk *.payments-amazon.co.jp *.payments-amazon.jp *.payments-amazon.it *.payments-amazon.fr *.payments-amazon.es *.payments-amazon.de cdn.dnky.co webchat.dotdigital.com *.yotpo.com\".\n",
+    "source": "security",
+    "timestamp": 1745008182823
+  },
+  {
+    "level": "SEVERE",
+    "message": "https://fstatic.netpub.media/ - [Report Only] Refused to frame 'https://creativecdn.com/' because it violates the following Content Security Policy directive: \"frame-src 'self' geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com secure.authorize.net test.authorize.net www.paypal.com www.sandbox.paypal.com pilot-payflowlink.paypal.com player.vimeo.com assets.braintreegateway.com *.amazon.com *.amazon.co.uk *.amazon.co.jp *.amazon.jp *.amazon.it *.amazon.fr *.amazon.es *.amazon.de *.payments-amazon.com *.payments-amazon.co.uk *.payments-amazon.co.jp *.payments-amazon.jp *.payments-amazon.it *.payments-amazon.fr *.payments-amazon.es *.payments-amazon.de cdn.dnky.co webchat.dotdigital.com *.yotpo.com\".\n",
+    "source": "security",
+    "timestamp": 1745008182823
+  },
+  {
+    "level": "SEVERE",
+    "message": "https://fstatic.netpub.media/ - [Report Only] Refused to frame 'https://hb.trustedstack.com/' because it violates the following Content Security Policy directive: \"frame-src 'self' geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com secure.authorize.net test.authorize.net www.paypal.com www.sandbox.paypal.com pilot-payflowlink.paypal.com player.vimeo.com assets.braintreegateway.com *.amazon.com *.amazon.co.uk *.amazon.co.jp *.amazon.jp *.amazon.it *.amazon.fr *.amazon.es *.amazon.de *.payments-amazon.com *.payments-amazon.co.uk *.payments-amazon.co.jp *.payments-amazon.jp *.payments-amazon.it *.payments-amazon.fr *.payments-amazon.es *.payments-amazon.de cdn.dnky.co webchat.dotdigital.com *.yotpo.com\".\n",
+    "source": "security",
+    "timestamp": 1745008182823
+  },
+  {
+    "level": "SEVERE",
+    "message": "https://fstatic.netpub.media/ - [Report Only] Refused to frame 'https://cm.adform.net/' because it violates the following Content Security Policy directive: \"frame-src 'self' geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com secure.authorize.net test.authorize.net www.paypal.com www.sandbox.paypal.com pilot-payflowlink.paypal.com player.vimeo.com assets.braintreegateway.com *.amazon.com *.amazon.co.uk *.amazon.co.jp *.amazon.jp *.amazon.it *.amazon.fr *.amazon.es *.amazon.de *.payments-amazon.com *.payments-amazon.co.uk *.payments-amazon.co.jp *.payments-amazon.jp *.payments-amazon.it *.payments-amazon.fr *.payments-amazon.es *.payments-amazon.de cdn.dnky.co webchat.dotdigital.com *.yotpo.com\".\n",
+    "source": "security",
+    "timestamp": 1745008182823
+  },
+  {
+    "level": "SEVERE",
+    "message": "https://fstatic.netpub.media/ - [Report Only] Refused to frame 'https://cm.adform.net/' because it violates the following Content Security Policy directive: \"frame-src 'self' geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com secure.authorize.net test.authorize.net www.paypal.com www.sandbox.paypal.com pilot-payflowlink.paypal.com player.vimeo.com assets.braintreegateway.com *.amazon.com *.amazon.co.uk *.amazon.co.jp *.amazon.jp *.amazon.it *.amazon.fr *.amazon.es *.amazon.de *.payments-amazon.com *.payments-amazon.co.uk *.payments-amazon.co.jp *.payments-amazon.jp *.payments-amazon.it *.payments-amazon.fr *.payments-amazon.es *.payments-amazon.de cdn.dnky.co webchat.dotdigital.com *.yotpo.com\".\n",
+    "source": "security",
+    "timestamp": 1745008182823
+  },
+  {
+    "level": "SEVERE",
+    "message": "https://fstatic.netpub.media/ - [Report Only] Refused to frame 'https://sync.richaudience.com/' because it violates the following Content Security Policy directive: \"frame-src 'self' geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com secure.authorize.net test.authorize.net www.paypal.com www.sandbox.paypal.com pilot-payflowlink.paypal.com player.vimeo.com assets.braintreegateway.com *.amazon.com *.amazon.co.uk *.amazon.co.jp *.amazon.jp *.amazon.it *.amazon.fr *.amazon.es *.amazon.de *.payments-amazon.com *.payments-amazon.co.uk *.payments-amazon.co.jp *.payments-amazon.jp *.payments-amazon.it *.payments-amazon.fr *.payments-amazon.es *.payments-amazon.de cdn.dnky.co webchat.dotdigital.com *.yotpo.com\".\n",
+    "source": "security",
+    "timestamp": 1745008182823
+  },
+  {
+    "level": "SEVERE",
+    "message": "https://fstatic.netpub.media/ - [Report Only] Refused to frame 'https://csync.smilewanted.com/' because it violates the following Content Security Policy directive: \"frame-src 'self' geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com secure.authorize.net test.authorize.net www.paypal.com www.sandbox.paypal.com pilot-payflowlink.paypal.com player.vimeo.com assets.braintreegateway.com *.amazon.com *.amazon.co.uk *.amazon.co.jp *.amazon.jp *.amazon.it *.amazon.fr *.amazon.es *.amazon.de *.payments-amazon.com *.payments-amazon.co.uk *.payments-amazon.co.jp *.payments-amazon.jp *.payments-amazon.it *.payments-amazon.fr *.payments-amazon.es *.payments-amazon.de cdn.dnky.co webchat.dotdigital.com *.yotpo.com\".\n",
+    "source": "security",
+    "timestamp": 1745008182823
+  },
+  {
+    "level": "SEVERE",
+    "message": "https://fstatic.netpub.media/ - [Report Only] Refused to frame 'https://onetag-sys.com/' because it violates the following Content Security Policy directive: \"frame-src 'self' geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com secure.authorize.net test.authorize.net www.paypal.com www.sandbox.paypal.com pilot-payflowlink.paypal.com player.vimeo.com assets.braintreegateway.com *.amazon.com *.amazon.co.uk *.amazon.co.jp *.amazon.jp *.amazon.it *.amazon.fr *.amazon.es *.amazon.de *.payments-amazon.com *.payments-amazon.co.uk *.payments-amazon.co.jp *.payments-amazon.jp *.payments-amazon.it *.payments-amazon.fr *.payments-amazon.es *.payments-amazon.de cdn.dnky.co webchat.dotdigital.com *.yotpo.com\".\n",
+    "source": "security",
+    "timestamp": 1745008183145
+  },
+  {
+    "level": "SEVERE",
+    "message": "https://fstatic.netpub.media/ - [Report Only] Refused to frame 'https://onetag-sys.com/' because it violates the following Content Security Policy directive: \"frame-src 'self' geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com secure.authorize.net test.authorize.net www.paypal.com www.sandbox.paypal.com pilot-payflowlink.paypal.com player.vimeo.com assets.braintreegateway.com *.amazon.com *.amazon.co.uk *.amazon.co.jp *.amazon.jp *.amazon.it *.amazon.fr *.amazon.es *.amazon.de *.payments-amazon.com *.payments-amazon.co.uk *.payments-amazon.co.jp *.payments-amazon.jp *.payments-amazon.it *.payments-amazon.fr *.payments-amazon.es *.payments-amazon.de cdn.dnky.co webchat.dotdigital.com *.yotpo.com\".\n",
+    "source": "security",
+    "timestamp": 1745008183145
+  },
+  {
+    "level": "SEVERE",
+    "message": "https://fstatic.netpub.media/ - [Report Only] Refused to frame 'https://ads.pubmatic.com/' because it violates the following Content Security Policy directive: \"frame-src 'self' geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com secure.authorize.net test.authorize.net www.paypal.com www.sandbox.paypal.com pilot-payflowlink.paypal.com player.vimeo.com assets.braintreegateway.com *.amazon.com *.amazon.co.uk *.amazon.co.jp *.amazon.jp *.amazon.it *.amazon.fr *.amazon.es *.amazon.de *.payments-amazon.com *.payments-amazon.co.uk *.payments-amazon.co.jp *.payments-amazon.jp *.payments-amazon.it *.payments-amazon.fr *.payments-amazon.es *.payments-amazon.de cdn.dnky.co webchat.dotdigital.com *.yotpo.com\".\n",
+    "source": "security",
+    "timestamp": 1745008183145
+  },
+  {
+    "level": "WARNING",
+    "message": "https://magento.softwaretestingboard.com/pub/static/version1695896754/frontend/Magento/luma/en_US/jquery/jquery-migrate.js 44:11 \"JQMIGRATE: jQuery.attrFn is deprecated\"",
+    "source": "console-api",
+    "timestamp": 1745008183222
+  },
+  {
+    "level": "WARNING",
+    "message": "https://magento.softwaretestingboard.com/pub/static/version1695896754/frontend/Magento/luma/en_US/jquery/jquery-migrate.js 44:11 \"JQMIGRATE: jQuery.attrFn is deprecated\"",
+    "source": "console-api",
+    "timestamp": 1745008185623
+  }
+]

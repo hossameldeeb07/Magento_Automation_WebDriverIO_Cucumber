@@ -1,0 +1,8 @@
+.........Console Logs.........
+
+All product prices: [
+  [33m99[39m, [33m84[39m, [33m77[39m, [33m77[39m, [33m75[39m,
+  [33m72[39m, [33m69[39m, [33m66[39m, [33m65[39m, [33m60[39m,
+  [33m60[39m, [33m59[39m
+]
+All products are properly sorted in descending order

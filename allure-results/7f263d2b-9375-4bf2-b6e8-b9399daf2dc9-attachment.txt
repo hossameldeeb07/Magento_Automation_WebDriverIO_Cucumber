@@ -1,0 +1,3 @@
+.........Console Logs.........
+
+Screenshot saved at: C:\Users\ammar\WebDriverIO_Cucumber_Magento\screenshots\FAIL_Filter men's products to show only jackets_2025-04-18T21-24-05-894Z.png
